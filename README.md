@@ -1,5 +1,8 @@
 # Admaker
 
+[![방문](https://hits.sh/github.com/shaneParkKt/admaker-public.svg?view=today-total&label=%EB%B0%A9%EB%AC%B8)](https://hits.sh/github.com/shaneParkKt/admaker-public/)
+[![다운로드](https://img.shields.io/github/downloads/shaneParkKt/admaker-public/total?label=%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C)](https://github.com/shaneParkKt/admaker-public/releases)
+
 **광고 영상을 기획부터 생성·편집·내보내기까지 한 곳에서 만드는 AI 광고 영상 에디터**의 데스크톱 앱 배포 저장소입니다.
 
 [![Admaker 소개 영상](docs/admaker-demo.webp)](docs/admaker-demo.mp4)
