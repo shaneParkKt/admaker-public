@@ -1,0 +1,29 @@
+# [KOR] Copyright (c) 2026 KT Corporation. All rights reserved.
+
+본 소프트웨어 및 관련 문서(이하 "소프트웨어")는 KT의 독점 자산입니다.
+KT의 사전 서면 허가 없이 소프트웨어의 전부 또는 일부를 복제, 수정, 배포,
+공개하거나 제3자에게 제공할 수 없습니다.
+
+소프트웨어(빌드된 배포물 포함)를 리버스 엔지니어링, 디컴파일, 역어셈블하거나
+원본 소스를 복원하는 행위, 그리고 소프트웨어를 분석해 같거나 비슷한 기능을
+다시 구현하는 행위(이른바 클린룸 재구현)는 관련 법령이 명시적으로 허용하는
+범위를 제외하고 금지됩니다. 허가된 범위 안에서 소프트웨어를 사용하는 것은
+이 제한에 해당하지 않습니다.
+
+소프트웨어는 KT 내부 업무 목적으로만 사용할 수 있으며, 어떠한 명시적
+또는 묵시적 보증 없이 "있는 그대로" 제공됩니다.
+
+소프트웨어에 포함되거나 의존하는 서드파티 구성요소는 각 구성요소의
+라이선스를 따릅니다.
+
+---------
+# [ENG] Copyright (c) 2026 KT Corporation. All rights reserved.
+
+This software and its related documentation (hereinafter referred to as the "Software") are the exclusive property of KT.
+You may not reproduce, modify, distribute, disclose, or provide the Software—in whole or in part—to any third party without prior written permission from KT.
+
+Reverse engineering, decompiling, disassembling, or attempting to reconstruct the original source code of the Software (including built distributions), as well as analyzing the Software to reimplement identical or similar functionality (so-called "clean-room reimplementation"), is prohibited, except to the extent explicitly permitted by applicable law. Use of the Software within the scope of such permitted use is not subject to this restriction.
+
+The Software is provided for internal KT business purposes only and is supplied "as is," without any warranties, whether express or implied.
+
+Third-party components included in or relied upon by the Software are subject to their respective licenses.
