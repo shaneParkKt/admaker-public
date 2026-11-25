@@ -41,6 +41,19 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.11.1 (2026-11-25)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.1)
+
+#### 새 기능
+- yarn email 로 최신·지정 버전 릴리스 메일 보내기
+- 릴리스 메일 스팸 방지 — 버튼은 릴리스 페이지로, 여러 명은 숨은참조, Reply-To
+- 공개 릴리스 설치 파일을 6자리 암호 zip 으로, 암호는 메일에 드래그해야 보이게
+- 최신 릴리스보다 2개 이상 뒤처진 앱은 실행을 막고 업데이트 안내
+
+#### 버그 수정
+- Actions 에서 PR 을 못 읽어 릴리스 노트 변경 사항이 비던 문제
+
 ### 1.11.0 (2026-11-24)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.0)
