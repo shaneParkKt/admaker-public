@@ -41,6 +41,18 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.11.3 (2026-11-25)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.3)
+
+#### 새 기능
+- 앱이 새 버전을 자동으로 받아 두고, 다시 시작하면 업데이트됩니다.
+- 앱에서 SNS에 올리기 (유튜브)
+- 개인정보처리방침·이용약관 공개 페이지
+- AI 문구 채우기와 인스타그램 릴스 올리기
+- 인스타그램 연동 항목과 데이터 삭제 안내 페이지
+- SNS 업로드 메뉴를 즐겨찾기 아래로 이동
+
 ### 1.11.2 (2026-11-25)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.2)
