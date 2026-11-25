@@ -41,6 +41,14 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.12.2 (2026-11-26)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.12.2)
+
+#### 버그 수정
+- SNS 성과 화면 — 차트 높이 고정, 플랫폼 탭 유지, 영상별 성과 플랫폼 합치기
+- Agent(MCP) 생성은 결과가 타임라인에 들어가야 작업 목록 완료
+
 ### 1.12.1 (2026-11-26)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.12.1)
