@@ -41,6 +41,27 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.12.0 (2026-11-25)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.12.0)
+
+#### 새 기능
+- SNS 업로드 성과 탭 — 조회수·좋아요·시청 시간·이탈 그래프·유입 경로
+- 업로드 내역에서 다른 채널에 올리기
+- 업로드 실패 이유 자세히 보기
+- SNS 업로드 화면에서 오른쪽 패널 접기
+- SNS 업로드 플랫폼별 해상도 선택·미리보기 + 앱에서 변환 후 올리기
+- Quick 모드 상단 헤더에 공유 버튼
+- Quick 헤더 공유 버튼 옆에 미리보기 버튼
+- 채널 연결 관리를 헤더 유저 메뉴(로그아웃 위)로 이동
+
+#### 버그 수정
+- 이미 올린 채널 비활성화, AI 문구 확인창 닫힘, 유튜브 전용 설정 표시
+- SNS 업로드 창 제목·아이콘을 대시보드 메뉴와 통일
+- SNS 변환 흐린 배경을 LGPL ffmpeg에 있는 gblur로
+- 인스타그램 rupload에 Content-Length·X-Entity-Length 헤더
+- 인스타그램 rupload 헤더를 문서 예시와 같게 + 실패 단계 표시
+
 ### 1.11.3 (2026-11-25)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.3)
