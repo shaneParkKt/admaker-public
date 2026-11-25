@@ -41,6 +41,13 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.11.2 (2026-11-25)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.2)
+
+#### 새 기능
+- 암호 zip 보류 — 기본 꺼짐, 공개 릴리스는 exe·pkg 그대로, 메일에 암호 없음
+
 ### 1.11.1 (2026-11-25)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.1)
