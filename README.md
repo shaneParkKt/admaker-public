@@ -41,6 +41,13 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.13.1 (2026-11-26)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.13.1)
+
+#### 기타
+- 안정성 개선 및 버그 수정
+
 ### 1.13.0 (2026-11-26)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.13.0)
@@ -143,13 +150,6 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 
 #### 버그 수정
 - Actions 에서 PR 을 못 읽어 릴리스 노트 변경 사항이 비던 문제
-
-### 1.11.0 (2026-11-24)
-
-[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.0)
-
-#### 새 기능
-- Agent CLI 자동 설치 + 실패 시 수동 설치 안내
 <!-- releases:end -->
 
 ## 라이선스
