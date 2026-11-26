@@ -41,6 +41,20 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.13.0 (2026-11-26)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.13.0)
+
+#### 새 기능
+- SNS 성과 영상 상세 — 전체 탭이면 올린 플랫폼 합계
+
+#### 버그 수정
+- Quick·Planner 공유 메뉴 영상 다운로드가 최종 영상이 있어도 비활성으로 남던 문제
+- Quick 결과 하단 '광고 다운로드' 버튼 문구를 '영상 다운로드'로 변경
+
+#### 기타
+- MCP 스킬 동기화: admaker-3d 스킬 분리 반영
+
 ### 1.12.4 (2026-11-26)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.12.4)
