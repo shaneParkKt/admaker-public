@@ -41,6 +41,14 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.13.3 (2026-11-26)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.13.3)
+
+#### 새 기능
+- 작업 폴더에 3D 모델(GLB) 넣고 종류 필터를 아이콘 버튼으로
+- 크게 보기에서 좌우로 이전/다음 이미지 보기
+
 ### 1.13.2 (2026-11-26)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.13.2)
@@ -139,13 +147,6 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 - AI 문구 채우기와 인스타그램 릴스 올리기
 - 인스타그램 연동 항목과 데이터 삭제 안내 페이지
 - SNS 업로드 메뉴를 즐겨찾기 아래로 이동
-
-### 1.11.2 (2026-11-25)
-
-[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.2)
-
-#### 새 기능
-- 암호 zip 보류 — 기본 꺼짐, 공개 릴리스는 exe·pkg 그대로, 메일에 암호 없음
 <!-- releases:end -->
 
 ## 라이선스
