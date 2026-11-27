@@ -41,6 +41,24 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 새 버전이 나올 때마다 아래에 변경 사항이 자동으로 추가됩니다 (최근 10개). 전체 기록은 [Releases](https://github.com/shaneParkKt/admaker-public/releases)에서 볼 수 있습니다.
 
 <!-- releases:start -->
+### 1.13.5 (2026-11-28)
+
+[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.13.5)
+
+#### 새 기능
+- SNS 업로드용 영상은 다운로드 없이 만들어 바로 올리기
+- 로그인 전 서비스 소개 페이지와 /login 분리
+- 헤더 로그인 옆에 데스크톱 앱 받기 버튼 추가
+- 리캡 장면 조각을 키프레임 복사로 빠르게 자르고 대용량 기준을 100MB로
+- 소개 책에 Agent·MCP, 공유, 유튜브 업로드·성과 관리 쪽 보강
+- 앱 화면 멈춤 기록·복구, 원본 정보 캐시, 오디오 파형을 앱 ffmpeg으로
+
+#### 버그 수정
+- MCP(Agent) 작업 중에도 패널·팝업·미리보기 열고 닫기 허용 — 생성·편집만 막기
+- 소개 페이지 형태를 화면 크기 대신 주소로 결정
+- 파일·공유 메뉴의 '광고' 표기를 '프로젝트'로 변경
+- 다른 PC·탭의 최신 저장본을 옛 화면으로 덮어쓰지 않게 저장 충돌 처리
+
 ### 1.13.3 (2026-11-26)
 
 [다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.13.3)
@@ -135,18 +153,6 @@ Admaker 는 상품·매장 정보만 넣으면 광고 기획안, 장면 구성, 
 - SNS 변환 흐린 배경을 LGPL ffmpeg에 있는 gblur로
 - 인스타그램 rupload에 Content-Length·X-Entity-Length 헤더
 - 인스타그램 rupload 헤더를 문서 예시와 같게 + 실패 단계 표시
-
-### 1.11.3 (2026-11-25)
-
-[다운로드](https://github.com/shaneParkKt/admaker-public/releases/tag/admaker-app-v1.11.3)
-
-#### 새 기능
-- 앱이 새 버전을 자동으로 받아 두고, 다시 시작하면 업데이트됩니다.
-- 앱에서 SNS에 올리기 (유튜브)
-- 개인정보처리방침·이용약관 공개 페이지
-- AI 문구 채우기와 인스타그램 릴스 올리기
-- 인스타그램 연동 항목과 데이터 삭제 안내 페이지
-- SNS 업로드 메뉴를 즐겨찾기 아래로 이동
 <!-- releases:end -->
 
 ## 라이선스
